@@ -12,6 +12,7 @@ Hello
 I'm a special collections librarian, currently working at the [Marian Library](https://udayton.edu/marianlibrary] at the University of Dayton on traditional Myaamia and Shawnee lands. As the collections librarian and a member of the library faculty, I work with rare and circulating published materials from 1473 to the present. I am also currently serving as co-chair of the Special Collections and Archives Interest Group in the Academic Library Association of Ohio and on the Scholarships committee of the Rare Book and Manuscript Section of the Assocation of College and Research Libraries. 
 
 I am a nonbinary trans man and live in Ohio with two cats. I hold an MLIS with a concentration in Archives Management from Simmons University as well as an MFA in Creative Writing from Boston University, with several poems published under my birth name, and a BA in English from Barnard College, Columbia University.
+
 My research interests
 ======
 1. critical special collections librarianship
